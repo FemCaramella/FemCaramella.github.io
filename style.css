@@ -1,7 +1,3 @@
-html {
- height: 100%;
- width: 100%;
-}
-p {
- background-color: #ccffff;
+body {
+ color: #ccffff;
 }
