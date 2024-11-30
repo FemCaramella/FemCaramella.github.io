@@ -4,6 +4,12 @@ body {
  font-size: 6vw;
  border: 5px solid powderblue;
 }
+
 p {
  background-color: palegreen;
+}
+
+img {
+ width: 100%;
+ height: auto;
 }
