@@ -1,3 +1,7 @@
 body {
  background-color: powderblue;
 }
+p {
+ background-color: lightgreen;
+ border: 5 px solid palegreen;
+}
