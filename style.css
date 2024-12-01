@@ -8,6 +8,8 @@ body {
 
 p {
  background-color: palegreen;
+ border: 5px solid palegreen;
+ border-radius: 5px;
 }
 
 img {
