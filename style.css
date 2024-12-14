@@ -1,19 +1,21 @@
 body {
- background-color: lightblue;
+ background-color: lightsalmon;
  font-family: verdana, arial, tahoma;
- font-size: 6vw;
- border: 20px solid powderblue;
- border-radius: 5px;
+ font-size: 25px;
 }
 
 p {
- background-color: palegreen;
- border: 5px solid palegreen;
+ color: saddlebrown;
+ background-color: bisque;
+ border: 4px solid wheat;
  border-radius: 5px;
 }
-
+.PSAtext {
+  color: saddlebrown;
+ background-color: bisque;
+ border: 4px solid wheat;
+ border-radius: 5px;
+}
 img {
-    max-width: 100%;
-    min-width: 300px;
-    height: auto;
+ 
 }
