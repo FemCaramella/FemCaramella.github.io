@@ -1,7 +1,12 @@
 body {
  background-color: lightsalmon;
  font-family: verdana, arial, tahoma;
- font-size: 7.5vw;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 25px;
+  }
 }
 
 p {
@@ -10,11 +15,13 @@ p {
  border: 4px solid wheat;
  border-radius: 5px;
 }
+
 #PSAtext {
   color: saddlebrown;
  background-color: bisque;
  border: 4px solid wheat;
  border-radius: 2.5vw;
+
 }
 img {
  
