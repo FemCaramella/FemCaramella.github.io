@@ -33,7 +33,7 @@ body {
 .greeting {
  color: saddlebrown;
  background-color: bisque;
- border: 4px solid wheat;
+ border: 10px solid wheat;
  border-radius: 20px;
  min-width: 600px;
  max-width: 800px;
@@ -44,7 +44,7 @@ body {
 #PSAtext {
   color: saddlebrown;
  background-color: bisque;
- border: 4px solid wheat;
+ border: 7px solid wheat;
  border-radius: 15px;
  min-width: 400px;
  max-width: 550px;
