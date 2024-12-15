@@ -2,7 +2,7 @@ body {
  background-color: lightsalmon;
  font-family: verdana, arial, tahoma;
 }
-/* Phone UI*/
+/* Phone UI */
 @media screen and (max-width: 700px) {
   body {
     font-size: 25px;
@@ -27,6 +27,8 @@ body {
     font-size: 15px;
   }
 }
+
+/* Main greeting text */
 
 .greeting {
  color: saddlebrown;
