@@ -3,13 +3,26 @@ body {
  font-family: verdana, arial, tahoma;
 }
 /* Phone UI*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   body {
     font-size: 25px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
+  #PSAtext {
+    font-size: 15px;
+  }
+}
+
+/* Desktop UI*/
+@media screen and (max-width: 700px) {
+  body {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 700px) {
   #PSAtext {
     font-size: 15px;
   }
