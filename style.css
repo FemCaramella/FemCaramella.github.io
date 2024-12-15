@@ -28,14 +28,7 @@ body {
   }
 }
 
-h1 {
- color: saddlebrown;
- background-color: bisque;
- border: 4px solid wheat;
- border-radius: 5px;
-}
-
-p {
+.greeting {
  color: saddlebrown;
  background-color: bisque;
  border: 4px solid wheat;
