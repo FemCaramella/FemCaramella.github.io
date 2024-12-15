@@ -33,7 +33,8 @@ body {
  background-color: bisque;
  border: 4px solid wheat;
  border-radius: 20px;
- max-width: 600px;
+ min-width: 600px;
+ max-width: 800px;
  margin-left: auto;
  margin-right: auto;
 }
@@ -43,7 +44,8 @@ body {
  background-color: bisque;
  border: 4px solid wheat;
  border-radius: 15px;
- max-width: 400px;
+ min-width: 400px;
+ max-width: 550px;
  margin-left: auto;
  margin-right: auto;
 }
