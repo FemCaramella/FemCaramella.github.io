@@ -52,6 +52,34 @@ body {
  margin-right: auto;
 }
 
-img {
- 
+/* fade-in animations for the greeting page*/
+
+.greeting {
+  animation: fadeInAnimation ease 1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#PSAtext {
+  animation: fadeInAnimation ease 1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+ 0% {
+  opacity: 0;
+ }
+
+ 100% {
+  opacity: 1
+ }
 }
